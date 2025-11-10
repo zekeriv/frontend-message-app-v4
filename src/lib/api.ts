@@ -1,6 +1,6 @@
 import { z } from 'zod';
 
-const API_BASE_URL = 'http://54.252.180.111:8000/api';
+const API_BASE_URL = 'http://3.104.79.254/api';
 
 export interface LoginCredentials {
   username: string;
